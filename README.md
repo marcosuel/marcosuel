@@ -3,7 +3,9 @@
 My name is Marcos and I'm a Mid Backend Developer.
 
 🔭 I’m currently working on REST APIs.
+
 🌱 I’m currently learning clean architecture.
+
 📫 How to reach me: marcosuelns@gmail.com
 
 ## Languages and Tools
