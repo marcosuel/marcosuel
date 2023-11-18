@@ -13,6 +13,8 @@ My name is Marcos and I'm a Mid Backend Developer.
 - Unit Tests
 - Integration Tests
 - REST API
+- JWT
+- OAuth
 - Docker
 - Git
 - Agile Methodologies
