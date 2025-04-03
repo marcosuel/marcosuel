@@ -25,4 +25,4 @@ My name is Marcos and I'm a Mid Backend Developer.
 -->
 
 ## Connect with Me
-[![Linkedin](https://img.shields.io/badge/-MarcosSuel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-suel-a789a31b1)
+[![Linkedin](https://img.shields.io/badge/-MarcosSuel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-saldanha-a789a31b1/)
